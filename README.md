@@ -8,7 +8,7 @@ I had a Raspberry Pi and an extra monitor and had just taken down an analog cloc
 I was contemplating getting a radio sync'ed analog clock to replace it, so I didn't have to worry about
 it being accurate.
 
-But instead the PiClock was born. Hurray
+But instead the PiClock was born. Hurray!
 
 The early days and evolution of it are chronicled on my blog http://n0bel.net/v1/index.php/projects/raspberry-pi-clock
 
